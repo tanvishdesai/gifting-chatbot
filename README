@@ -7,7 +7,6 @@
 - [Setup Instructions](#setup-instructions)
 - [Usage](#usage)
 - [Occasions Included](#occasions-included)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -22,7 +21,7 @@ The Gift Recommendation Chatbot is an AI-powered conversational agent designed t
 
 ## Technologies Used
 - [Dialogflow](https://dialogflow.cloud.google.com/) for natural language understanding and intent management.
-- [Node.js](https://nodejs.org/) for backend support (if applicable).
+- [PHP](https://www.php.net/) for backend support .
 - [Webhook services](https://cloud.google.com/functions) for dynamic gift recommendations.
 - [GitHub](https://github.com/) for version control and collaboration.
 
@@ -30,3 +29,33 @@ The Gift Recommendation Chatbot is an AI-powered conversational agent designed t
 1. **Clone the Repository**:
    ```bash
    git clone https://github.com/tanvishdesai/gifting-chatbot
+
+Users can interact with the chatbot through various channels (e.g., web, Facebook Messenger).
+Ask questions like:
+"Can you help me find a birthday gift for my sister?"
+"What should I get for my friend's wedding?"
+The chatbot will provide recommendations based on the user’s input.
+Occasions Included
+      Birthdays
+      Anniversaries
+      Weddings
+      Holidays (Christmas, New Year, etc.)
+      Graduations
+      Baby Celebrations
+      Housewarming
+      Retirement
+      Corporate Events
+      Religious Celebrations
+      Personal Achievements
+      Just Because
+
+MIT License
+
+Copyright (c) desai tanvish
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+
