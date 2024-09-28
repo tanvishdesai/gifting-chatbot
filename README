@@ -1,0 +1,32 @@
+# Gift Recommendation Chatbot
+
+## Table of Contents
+- [Introduction](#introduction)
+- [Features](#features)
+- [Technologies Used](#technologies-used)
+- [Setup Instructions](#setup-instructions)
+- [Usage](#usage)
+- [Occasions Included](#occasions-included)
+- [Contributing](#contributing)
+- [License](#license)
+
+## Introduction
+The Gift Recommendation Chatbot is an AI-powered conversational agent designed to help users find the perfect gift based on their preferences, occasion, recipient details, and budget. The chatbot offers a personalized shopping experience, making it easier for users to select gifts for various events.
+
+## Features
+- **User Input Collection**: Gather relevant information such as occasion, recipient details, budget, and preferences.
+- **Gift Recommendations**: Suggest a curated list of gifts based on user input.
+- **Interactive Experience**: Engage users with follow-up questions for better recommendations.
+- **Seamless Shopping Experience**: Guide users through the purchase process once a gift is selected.
+- **Knowledge Base Integration**: Utilize a knowledge base for frequently asked questions and gift suggestions.
+
+## Technologies Used
+- [Dialogflow](https://dialogflow.cloud.google.com/) for natural language understanding and intent management.
+- [Node.js](https://nodejs.org/) for backend support (if applicable).
+- [Webhook services](https://cloud.google.com/functions) for dynamic gift recommendations.
+- [GitHub](https://github.com/) for version control and collaboration.
+
+## Setup Instructions
+1. **Clone the Repository**:
+   ```bash
+   git clone https://github.com/tanvishdesai/gift-recommendation-chatbot.git
